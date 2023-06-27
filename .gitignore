@@ -35,6 +35,9 @@ fabric.properties
 
 modules.xml
 
+### VS Code ###
+.vscode/
+
 ### Java ###
 # Compiled class file
 *.class
